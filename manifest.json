@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "CoreVersion": "2.0.0.0",
+    "CoreVersion": "2.0.0.1",
     "OrganizationName": "郑州市第七高级中学",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/Andydot-ui/classisland-mgmt-cfg/master/{id}/classplans.json",
