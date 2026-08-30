@@ -3,7 +3,7 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "郑州市第七高级中学",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/Andydot-ui/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://raw.githubusercontent.com/Andydot-ui/classisland-mgmt-cfg/master/classplans2601.json",
         "Version": 1
     },
     "TimeLayoutSource": {
