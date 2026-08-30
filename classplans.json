@@ -1,0 +1,742 @@
+{
+    "Name": "",
+    "TimeLayouts": {},
+    "ClassPlans": {
+    "9849aab4-9f88-4278-8b18-7d80ab31819f": {
+      "TimeLayoutId": "0262a63c-58a9-42d0-a21a-41fa728e93d7",
+      "TimeRule": {
+        "WeekDay": 1,
+        "WeekCountDiv": 0,
+        "WeekCountDivTotal": 2,
+        "IsActive": false
+      },
+      "Classes": [
+        {
+          "SubjectId": "635f93c9-aadc-4114-a7fa-24a083a98e7b",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "47ae7012-d1c1-48ea-aac8-03f0102e04c3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        }
+      ],
+      "Name": "周一",
+      "IsOverlay": false,
+      "OverlaySourceId": null,
+      "OverlaySetupTime": "2026-08-24T17:45:09.7780335+08:00",
+      "IsEnabled": true,
+      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "b449d891-2810-4f1d-bfbd-ceac912938bb": {
+      "TimeLayoutId": "0262a63c-58a9-42d0-a21a-41fa728e93d7",
+      "TimeRule": {
+        "WeekDay": 2,
+        "WeekCountDiv": 0,
+        "WeekCountDivTotal": 2,
+        "IsActive": false
+      },
+      "Classes": [
+        {
+          "SubjectId": "635f93c9-aadc-4114-a7fa-24a083a98e7b",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "47ae7012-d1c1-48ea-aac8-03f0102e04c3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        }
+      ],
+      "Name": "周二",
+      "IsOverlay": false,
+      "OverlaySourceId": null,
+      "OverlaySetupTime": "2026-08-24T17:45:09.7780335+08:00",
+      "IsEnabled": true,
+      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "e2c522b3-a005-4d1b-8370-d7604f8ffdb1": {
+      "TimeLayoutId": "0262a63c-58a9-42d0-a21a-41fa728e93d7",
+      "TimeRule": {
+        "WeekDay": 3,
+        "WeekCountDiv": 0,
+        "WeekCountDivTotal": 2,
+        "IsActive": false
+      },
+      "Classes": [
+        {
+          "SubjectId": "635f93c9-aadc-4114-a7fa-24a083a98e7b",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "47ae7012-d1c1-48ea-aac8-03f0102e04c3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        }
+      ],
+      "Name": "周三",
+      "IsOverlay": false,
+      "OverlaySourceId": null,
+      "OverlaySetupTime": "2026-08-24T17:45:09.7780335+08:00",
+      "IsEnabled": true,
+      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "faae85fc-b95f-41a5-8b1a-a3d746176fd1": {
+      "TimeLayoutId": "0262a63c-58a9-42d0-a21a-41fa728e93d7",
+      "TimeRule": {
+        "WeekDay": 4,
+        "WeekCountDiv": 0,
+        "WeekCountDivTotal": 2,
+        "IsActive": false
+      },
+      "Classes": [
+        {
+          "SubjectId": "635f93c9-aadc-4114-a7fa-24a083a98e7b",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "47ae7012-d1c1-48ea-aac8-03f0102e04c3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        }
+      ],
+      "Name": "周四",
+      "IsOverlay": false,
+      "OverlaySourceId": null,
+      "OverlaySetupTime": "2026-08-24T17:45:09.7780335+08:00",
+      "IsEnabled": true,
+      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "55693e27-ce9c-475b-84a2-0a86d331d7e3": {
+      "TimeLayoutId": "0262a63c-58a9-42d0-a21a-41fa728e93d7",
+      "TimeRule": {
+        "WeekDay": 5,
+        "WeekCountDiv": 0,
+        "WeekCountDivTotal": 2,
+        "IsActive": false
+      },
+      "Classes": [
+        {
+          "SubjectId": "635f93c9-aadc-4114-a7fa-24a083a98e7b",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "47ae7012-d1c1-48ea-aac8-03f0102e04c3",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "0ca539a3-da35-4f22-b3bf-3fa375c0e629",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        },
+        {
+          "SubjectId": "1177e965-2010-4133-bd59-19d1984c2e31",
+          "IsChangedClass": false,
+          "IsEnabled": true,
+          "AttachedObjects": {
+
+          },
+          "IsActive": false
+        }
+      ],
+      "Name": "周五",
+      "IsOverlay": false,
+      "OverlaySourceId": null,
+      "OverlaySetupTime": "2026-08-24T17:45:09.7780335+08:00",
+      "IsEnabled": true,
+      "AssociatedGroup": "acaf4ef0-e261-4262-b941-34ea93cb4369",
+      "AttachedObjects": {
+
+      },
+      "IsActive": false
+    },
+    "Subjects": {}
+    }
+}

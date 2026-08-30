@@ -1,0 +1,595 @@
+{
+    "Name": "",
+    "TimeLayouts": {
+    "0262a63c-58a9-42d0-a21a-41fa728e93d7": {
+      "IsOverlay": false,
+      "OverlaySourceId": null,
+      "Name": "高一周一到周四",
+      "Layouts": [
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "06:50:00",
+          "EndTime": "07:20:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "07:20:00",
+          "EndTime": "08:00:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "08:00:00",
+          "EndTime": "08:40:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "08:40:00",
+          "EndTime": "08:50:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "08:50:00",
+          "EndTime": "09:30:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "09:30:00",
+          "EndTime": "09:40:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "09:40:00",
+          "EndTime": "10:20:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "10:20:00",
+          "EndTime": "10:50:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "10:50:00",
+          "EndTime": "11:30:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "11:30:00",
+          "EndTime": "11:40:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "11:40:00",
+          "EndTime": "12:20:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "12:20:00",
+          "EndTime": "13:00:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "13:00:00",
+          "EndTime": "14:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "14:00:00",
+          "EndTime": "14:20:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "14:20:00",
+          "EndTime": "15:10:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "15:10:00",
+          "EndTime": "15:20:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "15:20:00",
+          "EndTime": "16:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "16:00:00",
+          "EndTime": "16:30:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "16:30:00",
+          "EndTime": "17:10:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "17:10:00",
+          "EndTime": "17:20:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "17:20:00",
+          "EndTime": "18:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "18:00:00",
+          "EndTime": "18:30:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "18:40:00",
+          "EndTime": "19:30:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "19:30:00",
+          "EndTime": "19:40:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "19:40:00",
+          "EndTime": "20:40:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "20:40:00",
+          "EndTime": "20:50:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "",
+          "EndSecond": "",
+          "StartTime": "20:50:00",
+          "EndTime": "22:00:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "00000000-0000-0000-0000-000000000000",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        }
+      ],
+      "AttachedObjects": {
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "OutdoorClassOnPreparingText": "下节课程为户外课程，请合理规划时间，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "OutdoorClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": true,
+          "IsActive": false
+        },
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": true,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 0,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    }
+  },
+  "ClassPlans": {
+    "9849aab4-9f88-4278-8b18-7d80ab31819f": {
+      "TimeLayoutId": "0262a63c-58a9-42d0-a21a-41fa728e93d7",
+      "TimeRule": {
+        "WeekDay": 1,
+        "WeekCountDiv": 0,
+        "WeekCountDivTotal": 2,
+        "IsActive": false
+      }
+    },
+    "ClassPlans": {},
+    "Subjects": {}
+  }
+}
